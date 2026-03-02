@@ -1,0 +1,5 @@
+{
+  "name": "SRT Context Aligner",
+  "description": "Aligns a source context text with an SRT file to generate a timestamped timeline.",
+  "requestFramePermissions": []
+}
